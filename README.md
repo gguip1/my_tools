@@ -27,3 +27,11 @@ Claude Code Context7 MCP 설정
 ```bash
 npx degit gguip1/my_tools/claude-context7-mcp ./claude-context7-mcp
 ```
+
+### claude-figma-mcp
+
+Claude Code Figma MCP 설정
+
+```bash
+npx degit gguip1/my_tools/claude-figma-mcp ./claude-figma-mcp
+```
