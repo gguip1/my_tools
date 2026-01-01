@@ -35,3 +35,11 @@ Claude Code Figma MCP 설정
 ```bash
 npx degit gguip1/my_tools/claude-figma-mcp ./claude-figma-mcp
 ```
+
+### drawio-mcp
+
+Claude Code Draw.io MCP 설정
+
+```bash
+npx degit gguip1/my_tools/drawio-mcp ./drawio-mcp
+```
